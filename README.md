@@ -36,7 +36,7 @@ I'm continuously improving my skills through hands-on projects, testing, and lea
 - GitHub
 - Maven
 
-- ## Featured Projects
+## Featured Projects
 
 ### Inventory Management API
 
